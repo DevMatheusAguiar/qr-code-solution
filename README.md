@@ -1,6 +1,3 @@
-
-Certamente, Matheus! Aqui está o README adaptado em inglês:
-
 Frontend Mentor - About the QR Code Component Solution
 This is how I went through the QR code component challenge on Frontend Mentor.
 
