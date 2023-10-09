@@ -1,0 +1,47 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: hsl(212, 45%, 89%);
+}
+
+body, html {
+    height: 100%;
+    font-family: 'Outfit', sans-serif, Arial;
+}
+
+main {
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#principal {
+    text-align: center;
+    background-color: white;
+    font-size: 13px;
+    width: 340px;
+    height: 510px;
+    border-radius: 22px;
+}
+
+#principal img {
+    width: 290px;
+    margin-top: 25px;
+    border-radius: 8px;
+}
+
+#principal h1, 
+#principal p {
+    margin-top: 16px;
+}
+
+#principal p {
+    font-size: 1.2em;
+    color: hsl(220, 15%, 55%);
+}
+
