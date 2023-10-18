@@ -20,27 +20,27 @@ main {
     align-items: center;
 }
 
-#principal {
+.principal {
     text-align: center;
     background-color: white;
     font-size: 13px;
-    width: 340px;
+    max-width: 340px;
     height: 510px;
     border-radius: 22px;
 }
 
-#principal img {
+.principal img {
     width: 290px;
     margin-top: 25px;
     border-radius: 8px;
 }
 
-#principal h1, 
-#principal p {
+.principal h1, 
+.principal p {
     margin-top: 16px;
 }
 
-#principal p {
+.principal p {
     font-size: 1.2em;
     color: hsl(220, 15%, 55%);
 }
